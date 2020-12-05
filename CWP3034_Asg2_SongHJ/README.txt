@@ -102,5 +102,10 @@ have access to that tab, the only way for them to cancel is through contacting t
 of a tracked order on the tracking page.
 
 
+KNOWN BUGS:
+> There is a bug in which when you press on redeem points it will refresh the page. This will usually occur the first time you
+interact with the button, so subsequent interactions will load the page properly.
+
+
 If you have any questions, please let me know. I hope you enjoy testing out the system.
 - Hung Jie Song
