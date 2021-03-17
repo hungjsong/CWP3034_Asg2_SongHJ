@@ -1,18 +1,5 @@
-Student ID: 0201332
 Name: Hung Jie Song
-Assignment: Pizza Gang Assignment 2
 Github Link: https://github.com/hungjsong/CWP3034_Asg2_SongHJ
-Live Website Link: https://pizzagang.000webhostapp.com/CWP3034_Asg2_SongHJ/
-
-
-DISCLAIMER FOR LIVE WEBSITE:
-From what I can see, all functionalities should be operational for the live website. There were some issues during the upload,
-which were caused by case-sensitive issues such as referring to table names. For example, locally referencing the table 
-`menuitem` as menuItem will not cause an error, but on the live website it did as for the server it was uploaded on, 
-case-sensitivity was a factor. I apologize in advance in this website cannot be run locally. The website should be fully operational,
-but the performance lends itself to a rather slow experience. Try out running it locally first, and if there are any issues,
-please refer to the live website link above. Thank you.
-
 
 GENERAL NOTES: 
 1. There are three user types: visitor, admin, and member. 
